@@ -10,7 +10,7 @@ Contact: nimrod.zin+support-bot@gmail.com
 During the test, only people who have been invited can message the service.
 
 ## What we receive
-- Your WhatsApp phone number.
+- Your WhatsApp phone number and profile name.
 - The messages and files you choose to send us.
 
 We do not access anything else on your phone or in your WhatsApp account.
